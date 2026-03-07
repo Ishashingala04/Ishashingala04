@@ -6,20 +6,29 @@
 
 ---
 
-## 👩‍💻 About Me
+## 🌟 About Me
 
-- 💻 React Native Developer  
-- 📱 Passionate about building mobile apps  
-- 🚀 Completed freelance **Word Document Editor App**
-- 🔧 Experience in complex UI & app features  
-- 🌱 Currently learning **advanced React Native & state management**
+Hi, I'm **Isha Shingala**, a passionate **React Native Developer** with **1.5 years of experience** in building modern and scalable mobile applications for both **Android and iOS**.
 
+I specialize in developing **high-performance and scalable cross-platform apps** using **React Native, JavaScript, and TypeScript**. I enjoy turning ideas into real products by creating **smooth UI/UX, optimized performance, and reliable app architecture**.
+
+I have worked on different types of applications including **trading apps, live score apps, notification systems, games, and music streaming applications**. I also have experience integrating **APIs, real-time data, and third-party libraries** to build feature-rich mobile solutions.
+
+I am always motivated to **learn new technologies, improve my development skills, and build impactful digital products**.
+
+What I focus on as a developer:
+
+- ⚡ Developing fast and responsive mobile applications
+- 📱 Creating modern UI/UX for better user experience
+- 🔗 Integrating APIs and handling real-time data
+- 🧠 Continuously learning new technologies
+- 🚀 Building scalable and production-ready applications
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,ts,nodejs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,redux,nodejs,mongodb,firebase,git,github,vscode,bootstrap" />
 </p>
 
 ---
