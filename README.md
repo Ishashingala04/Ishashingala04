@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isha Shingala</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=React+Native+Developer;Mobile+App+Developer;JavaScript+%7C+TypeScript;Building+Awesome+Apps+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=28&center=true&vCenter=true&width=600&lines=React+Native+Developer;Mobile+App+Developer;JavaScript+%7C+TypeScript;Building+Awesome+Apps+🚀">
 </p>
 
 ---
