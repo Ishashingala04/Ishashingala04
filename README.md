@@ -12,8 +12,6 @@ Hi, I'm **Isha Shingala**, a passionate **React Native Developer** with **1.5 ye
 
 I specialize in developing **high-performance and scalable cross-platform apps** using **React Native, JavaScript, and TypeScript**. I enjoy turning ideas into real products by creating **smooth UI/UX, optimized performance, and reliable app architecture**.
 
-I have worked on different types of applications including **trading apps, live score apps, notification systems, games, and music streaming applications**. I also have experience integrating **APIs, real-time data, and third-party libraries** to build feature-rich mobile solutions.
-
 ---
 ## ✨ About Me
 
