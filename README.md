@@ -6,8 +6,8 @@
 
 ---
 
-## 🌟 About Me
-
+## 👩🏻‍💻 Developer Overview
+🌟 Welcome to My GitHub!
 Hi, I'm **Isha Shingala**, a passionate **React Native Developer** with **1.5 years of experience** in building modern and scalable mobile applications for both **Android and iOS**.
 
 I specialize in developing **high-performance and scalable cross-platform apps** using **React Native, JavaScript, and TypeScript**. I enjoy turning ideas into real products by creating **smooth UI/UX, optimized performance, and reliable app architecture**.
@@ -16,21 +16,44 @@ I have worked on different types of applications including **trading apps, live 
 
 I am always motivated to **learn new technologies, improve my development skills, and build impactful digital products**.
 
-What I focus on as a developer:
-
-- ⚡ Developing fast and responsive mobile applications
-- 📱 Creating modern UI/UX for better user experience
-- 🔗 Integrating APIs and handling real-time data
-- 🧠 Continuously learning new technologies
-- 🚀 Building scalable and production-ready applications
 ---
+## ✨ About Me
+
+- 📱 React Native Developer focused on **cross-platform mobile development**
+- ⚡ Building **fast, responsive, and scalable mobile applications**
+- 🎨 Creating **modern and user-friendly UI/UX**
+- 🔗 Experienced in **API integration and real-time data handling**
+- 🚀 Passionate about **performance optimization and clean architecture**
+- 🧠 Continuously learning **new technologies and best development practices**
+
+---
+
 
 ## 🛠️ Tech Stack
 
+### 📱 Mobile Development
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,react,redux,nodejs,mongodb,firebase,git,github,vscode,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react" />
 </p>
+<p align="center">React Native</p>
 
+### 💻 Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
+<p align="center">JavaScript • TypeScript</p>
+
+### ⚙️ Backend & Database
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,mongodb,firebase" />
+</p>
+<p align="center">Node.js • MongoDB • Firebase</p>
+
+### 🧰 Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+<p align="center">VS Code • Git • GitHub</p>
 ---
 
 ## 🚀 My Projects
