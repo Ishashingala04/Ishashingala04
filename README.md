@@ -180,7 +180,8 @@ https://www.upwork.com/freelancers/~0127f26d06fc6937ca
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ishashingala04&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ishashingala04&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://streak-stats.demolab.com?user=Ishashingala04&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -188,7 +189,7 @@ https://www.upwork.com/freelancers/~0127f26d06fc6937ca
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Ishashingala04&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Ishashingala04&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
