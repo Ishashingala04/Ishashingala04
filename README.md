@@ -186,14 +186,6 @@ https://www.upwork.com/freelancers/~0127f26d06fc6937ca
 
 ---
 
-## 📈 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishashingala04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -209,4 +201,3 @@ https://www.upwork.com/freelancers/~0127f26d06fc6937ca
 
 ---
 
-⭐️ From [Ishashingala04](https://github.com/Ishashingala04)
