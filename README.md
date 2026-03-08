@@ -197,8 +197,9 @@ https://www.upwork.com/freelancers/~0127f26d06fc6937ca
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Ishashingala04/Ishashingala04/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Ishashingala04/Ishashingala04/output/github-contribution-grid-snake.svg" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
