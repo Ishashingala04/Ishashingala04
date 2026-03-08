@@ -83,13 +83,76 @@ I have worked on different types of applications including **trading apps, live 
 
 ## 🚀 My Projects
 
-📄 **Word Document Editor App**
-- Open, edit and format `.doc` / `.docx` files
-- Custom top menu like MS Word / WPS Office
+### 📊 Trading App
+- Real-time stock market mobile application
+- Live price updates using **WebSocket / SignalR**
+- Dynamic **watchlist and script subscription system**
+- Optimized UI for **high-frequency market data**
 
-📊 **Trading UI App**
-- Market index UI
-- Advanced trading interface
+**Tech:** React Native • WebSocket • REST API • Context API
+
+---
+
+### 🏏 Cricket Live Score App
+- Real-time cricket match updates
+- Displays **live, upcoming, and completed matches**
+- Optimized list rendering using **FlatList**
+- Clean and responsive mobile UI
+
+**Tech:** React Native • Live Score API • Async Data Fetching
+
+---
+
+### 🔔 Send Notification App
+- Real-time push notification system
+- Firebase Firestore for **message storage**
+- Push alerts using **Firebase Cloud Messaging**
+- Works in **foreground and background**
+
+**Tech:** React Native • Firebase • FCM • Node.js
+
+---
+
+### 👕 RBXOutfits App
+- Roblox outfit browsing application
+- Search and explore **avatar outfit images**
+- Optimized **image loading and grid layout**
+- Smooth scrolling with **FlatList**
+
+**Tech:** React Native • API Integration • Firebase Remote Config
+
+---
+
+### 🛕 Parasmani App
+- Business utility mobile application
+- Dynamic data using **REST APIs**
+- Structured navigation and form handling
+- Successfully deployed on **Google Play Store**
+
+**Tech:** React Native • REST API • React Navigation
+
+📱 Play Store  
+https://play.google.com/store/apps/details?id=com.parasmani
+
+---
+
+### 🧩 Arrow Puzzle Game App
+- Interactive **logic-based puzzle game**
+- Multiple levels with increasing difficulty
+- Custom **game logic and animations**
+- Smooth touch interactions
+
+**Tech:** React Native • Animated API • Gesture Handler
+
+---
+
+### 🎵 Music Player App
+- Modern mobile **music player**
+- Play, pause, next, previous controls
+- Supports **local and online audio**
+- Custom designed player interface
+
+**Tech:** React Native • Track Player • Context API
 
 ---
 
