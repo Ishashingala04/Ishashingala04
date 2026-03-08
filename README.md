@@ -28,7 +28,6 @@ I am always motivated to **learn new technologies, improve my development skills
 
 ---
 
-
 ## 🛠️ Tech Stack
 
 ### 📱 Mobile Development
@@ -37,11 +36,30 @@ I am always motivated to **learn new technologies, improve my development skills
 </p>
 <p align="center">React Native</p>
 
+---
+
 ### 💻 Languages
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
 <p align="center">JavaScript • TypeScript</p>
+
+---
+
+### ⚛️ State Management
+<p align="center">
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### 🎨 Styling
+<p align="center">
+<img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge"/>
+</p>
+
+---
 
 ### ⚙️ Backend & Database
 <p align="center">
@@ -49,11 +67,19 @@ I am always motivated to **learn new technologies, improve my development skills
 </p>
 <p align="center">Node.js • MongoDB • Firebase</p>
 
+---
+
 ### 🧰 Tools
 <p align="center">
 <img src="https://skillicons.dev/icons?i=vscode,git,github" />
 </p>
-<p align="center">VS Code • Git • GitHub</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Antigravity-FF6B6B?style=for-the-badge"/>
+</p>
+
+<p align="center">VS Code • Git • GitHub • Cursor • Antigravity</p>
 ---
 
 ## 🚀 My Projects
