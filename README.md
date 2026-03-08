@@ -177,13 +177,6 @@ React Native • Document Processing • Custom UI Components
 https://www.upwork.com/freelancers/~0127f26d06fc6937ca
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ishashingala04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
----
 
 ## 🔥 GitHub Streak
 
@@ -196,15 +189,16 @@ https://www.upwork.com/freelancers/~0127f26d06fc6937ca
 ## 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishashingala04&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishashingala04&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Ishashingala04/Ishashingala04/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Ishashingala04/Ishashingala04/output/github-contribution-grid-snake.svg" />
+</p>
 ---
 
 ## 🌐 Connect With Me
