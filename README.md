@@ -137,12 +137,14 @@ https://play.google.com/store/apps/details?id=com.parasmani
 ---
 
 ### 🧩 Arrow Puzzle Game App
-- Interactive **logic-based puzzle game**
+- Logic-based puzzle game with directional arrow challenges
 - Multiple levels with increasing difficulty
-- Custom **game logic and animations**
-- Smooth touch interactions
+- Smooth animations and touch interactions
+- Custom game logic for puzzle solving
 
 **Tech:** React Native • Animated API • Gesture Handler
+
+🔗 GitHub Repo: https://github.com/Ishashingala04/Arrowpuzzle
 
 ---
 
@@ -156,6 +158,27 @@ https://play.google.com/store/apps/details?id=com.parasmani
 
 ---
 
+## 💼 Freelance Work
+
+### 📄 Word Document Editor App
+Mobile application that allows users to **open, edit, and format `.doc` and `.docx` files** with a **custom ribbon-style interface similar to Microsoft Word / WPS Office**.
+
+**Key Features**
+- Open and edit `.doc` / `.docx` documents
+- Custom **Ribbon Menu UI** for document editing
+- Text formatting: **Bold, Italic, Underline, Font Size, Colors**
+- Paragraph tools: **Alignment, Lists, Indentation, Spacing**
+- Insert **tables, images, shapes, and symbols**
+- Support for **headers, footers, and page numbers**
+- File actions: **Create, Open, Save, Export, Print**
+
+**Tech Stack:**  
+React Native • Document Processing • Custom UI Components
+
+🌐 **Freelance Client Work (Upwork):**  
+https://www.upwork.com/freelancers/~0127f26d06fc6937ca
+
+---
 ## 📊 GitHub Stats
 
 <p align="center">
