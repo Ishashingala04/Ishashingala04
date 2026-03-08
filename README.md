@@ -14,8 +14,6 @@ I specialize in developing **high-performance and scalable cross-platform apps**
 
 I have worked on different types of applications including **trading apps, live score apps, notification systems, games, and music streaming applications**. I also have experience integrating **APIs, real-time data, and third-party libraries** to build feature-rich mobile solutions.
 
-I am always motivated to **learn new technologies, improve my development skills, and build impactful digital products**.
-
 ---
 ## ✨ About Me
 
@@ -57,6 +55,7 @@ I am always motivated to **learn new technologies, improve my development skills
 ### 🎨 Styling
 <p align="center">
 <img src="https://img.shields.io/badge/NativeWind-38BDF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
 ---
