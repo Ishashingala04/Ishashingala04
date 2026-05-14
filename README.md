@@ -8,7 +8,7 @@
 
 ## 👩🏻‍💻 Developer Overview
 🌟 Welcome to My GitHub!
-Hi, I'm **Isha Shingala**, a passionate **React Native Developer** with **1.5 years of experience** in building modern and scalable mobile applications for both **Android and iOS**.
+Hi, I'm **Isha Shingala**, a passionate **React Native Developer** with **1.6 years of experience** in building modern and scalable mobile applications for both **Android and iOS**.
 
 I specialize in developing **high-performance and scalable cross-platform apps** using **React Native, JavaScript, and TypeScript**. I enjoy turning ideas into real products by creating **smooth UI/UX, optimized performance, and reliable app architecture**.
 
@@ -80,6 +80,16 @@ I specialize in developing **high-performance and scalable cross-platform apps**
 ---
 
 ## 🚀 My Projects
+
+### ⏰ Logical Alarm App
+- Smart alarm clock application designed to ensure you wake up on time
+- Features multiple wake-up challenges: **Math, Barcode Scanning, Photo Recognition, and Pattern Matching**
+- Persistent background execution and battery-optimized alarm handling
+- Clean UI with customizable ringtones and snooze settings
+  
+**Tech:** React Native • ML Kit (Image Labeling) • Redux Toolkit • Camera Kit
+
+---
 
 ### 📊 Trading App
 - Real-time stock market mobile application
@@ -197,6 +207,7 @@ https://www.upwork.com/freelancers/~0127f26d06fc6937ca
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/ishashingala04/
+- 🌐 Portfolio: https://isha-shingala.vercel.app/
 - 📧 Email: ishashingala5@gmail.com
 
 ---
