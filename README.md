@@ -100,6 +100,9 @@ I specialize in developing **high-performance and scalable cross-platform apps**
 
 **Tech:** React Native • WebSocket • REST API • Context API
 
+📱 Play Store  
+https://play.google.com/store/apps/details?id=com.logicalalarm.dev.logicalalarm&hl=en_IN
+
 ---
 
 ### 🏏 Cricket Live Score App
@@ -109,6 +112,9 @@ I specialize in developing **high-performance and scalable cross-platform apps**
 - Clean and responsive mobile UI
 
 **Tech:** React Native • Live Score API • Async Data Fetching
+
+📱 Play Store  
+https://play.google.com/store/apps/details?id=com.ascricketlivescore.android&hl=en_IN
 
 ---
 
