@@ -79,6 +79,7 @@ I specialize in developing **high-performance and scalable cross-platform apps**
 <p align="center">VS Code • Git • GitHub • Cursor • Antigravity</p>
 
 
+
 ## 🚀 My Projects
 
 ### ⏰ Logical Alarm App
