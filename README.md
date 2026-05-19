@@ -90,6 +90,9 @@ I specialize in developing **high-performance and scalable cross-platform apps**
   
 **Tech:** React Native • ML Kit (Image Labeling) • Redux Toolkit • Camera Kit
 
+📱 Play Store  
+https://play.google.com/store/apps/details?id=com.logicalalarm.dev.logicalalarm&hl=en_IN
+
 ---
 
 ### 📊 Trading App
@@ -99,9 +102,6 @@ I specialize in developing **high-performance and scalable cross-platform apps**
 - Optimized UI for **high-frequency market data**
 
 **Tech:** React Native • WebSocket • REST API • Context API
-
-📱 Play Store  
-https://play.google.com/store/apps/details?id=com.logicalalarm.dev.logicalalarm&hl=en_IN
 
 ---
 
