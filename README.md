@@ -128,13 +128,22 @@ https://play.google.com/store/apps/details?id=com.ascricketlivescore.android&hl=
 
 ---
 
-### 👕 RBXOutfits App
-- Roblox outfit browsing application
-- Search and explore **avatar outfit images**
-- Optimized **image loading and grid layout**
-- Smooth scrolling with **FlatList**
+### 👕 RBX Outfits App
 
-**Tech:** React Native • API Integration • Firebase Remote Config
+Interactive Roblox companion application focused on **avatar styling, outfit discovery, Robux utilities, and engaging mini experiences**.
+
+#### ✨ Features
+- 🔍 Explore and search Roblox avatar outfits
+- 🧥 20+ specialized outfit categories
+- 📋 Instant 1-tap clipboard sharing
+- ⚙️ Dynamic screen configuration using Firebase Remote Config
+- 🌐 OTA-controlled native browser navigation
+- 💰 Real-time Robux financial calculators
+- 🧠 Interactive logical IQ quiz engine
+- 🚀 Optimized image rendering and smooth scrolling performance
+
+#### 🛠️ Tech Stack
+React Native • Firebase Remote Config • In-App Browser • Fast Image • Vector Icons • Safe Area Context
 
 ---
 
@@ -158,8 +167,6 @@ https://play.google.com/store/apps/details?id=com.parasmani
 - Custom game logic for puzzle solving
 
 **Tech:** React Native • Animated API • Gesture Handler
-
-🔗 GitHub Repo: https://github.com/Ishashingala04/Arrowpuzzle
 
 ---
 
