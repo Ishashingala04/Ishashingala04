@@ -202,34 +202,10 @@ https://www.upwork.com/freelancers/~0127f26d06fc6937ca
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ishashingala04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Ishashingala04&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishashingala04&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ishashingala04&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
