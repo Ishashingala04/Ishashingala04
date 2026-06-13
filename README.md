@@ -106,12 +106,14 @@ https://play.google.com/store/apps/details?id=com.logicalalarm.dev.logicalalarm&
 ---
 
 ### 🏏 Cricket Live Score App
-- Real-time cricket match updates
-- Displays **live, upcoming, and completed matches**
-- Optimized list rendering using **FlatList**
-- Clean and responsive mobile UI
-
-**Tech:** React Native • Live Score API • Async Data Fetching
+- ⚡ **Real-Time Updates:** Provides instant, real-time cricket match scores and ball-by-ball updates.
+- 📅 **Comprehensive Coverage:** Displays detailed information for **live, upcoming, and completed matches**.
+- 🚀 **Performance Optimized:** Implemented highly optimized list rendering using **React Native's FlatList** for smooth scrolling even with large datasets.
+- 💰 **Monetization Strategy:** Successfully integrated **Google AdMob** for banner and native advertisements, balancing revenue generation with a smooth user experience.
+- 🎨 **Modern UI/UX:** Features a clean, intuitive, and highly responsive mobile user interface tailored for cricket fans.
+- 🔄 **Efficient Data Handling:** Integrates live score APIs with optimized asynchronous data fetching for seamless performance.
+  
+**Tech Stack:** `React Native` • `Live Score API` • `Async Data Fetching` • `Google AdMob`
 
 📱 Play Store  
 https://play.google.com/store/apps/details?id=com.ascricketlivescore.android&hl=en_IN
