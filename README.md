@@ -133,11 +133,7 @@ https://play.google.com/store/apps/details?id=com.ascricketlivescore.android&hl=
 
 ---
 
-### 👕 RBX Outfits App
-
-Interactive Roblox companion application focused on **avatar styling, outfit discovery, Robux utilities, and engaging mini experiences**.
-
-#### ✨ Features
+### 👕 RBLX Outfits App
 - 🔍 Explore and search Roblox avatar outfits
 - 🧥 20+ specialized outfit categories
 - 📋 Instant 1-tap clipboard sharing
@@ -147,8 +143,7 @@ Interactive Roblox companion application focused on **avatar styling, outfit dis
 - 🧠 Interactive logical IQ quiz engine
 - 🚀 Optimized image rendering and smooth scrolling performance
 
-#### 🛠️ Tech Stack
-React Native • Firebase Remote Config • In-App Browser • Fast Image • Vector Icons • Safe Area Context
+**Tech:** React Native • Firebase Remote Config • In-App Browser • Fast Image • Vector Icons • Safe Area Context
 
 ---
 
