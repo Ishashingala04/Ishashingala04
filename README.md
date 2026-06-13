@@ -95,13 +95,16 @@ https://play.google.com/store/apps/details?id=com.logicalalarm.dev.logicalalarm&
 
 ---
 
-### 📊 Trading App
-- Real-time stock market mobile application
-- Live price updates using **WebSocket / SignalR**
-- Dynamic **watchlist and script subscription system**
-- Optimized UI for **high-frequency market data**
+### 🧩 BlockDrop: Puzzle Game
+- 🎮 **Classic Arcade Gameplay:** Fast-paced, falling-block puzzle experience designed for quick, satisfying offline sessions.
+- ✨ **Smart Mechanics:** Features ghost pieces, hold blocks, next-block previews, and advanced combo systems for high scores.
+- 🚀 **Smooth Performance:** Built with Skia and Reanimated for flawless, 60fps rendering and responsive gesture controls.
+- 🎨 **Modern Retro UI:** Stunning neon dark theme optimized for seamless one-handed mobile play.
 
-**Tech:** React Native • WebSocket • REST API • Context API
+**Tech Stack:** `React Native` • `Skia` • `Reanimated` • `Zustand`  
+
+📱 Play Store  
+https://play.google.com/store/apps/details?id=com.blockdrop&hl=en_IN
 
 ---
 
@@ -159,26 +162,6 @@ React Native • Firebase Remote Config • In-App Browser • Fast Image • Ve
 
 📱 Play Store  
 https://play.google.com/store/apps/details?id=com.parasmani
-
----
-
-### 🧩 Arrow Puzzle Game App
-- Logic-based puzzle game with directional arrow challenges
-- Multiple levels with increasing difficulty
-- Smooth animations and touch interactions
-- Custom game logic for puzzle solving
-
-**Tech:** React Native • Animated API • Gesture Handler
-
----
-
-### 🎵 Music Player App
-- Modern mobile **music player**
-- Play, pause, next, previous controls
-- Supports **local and online audio**
-- Custom designed player interface
-
-**Tech:** React Native • Track Player • Context API
 
 ---
 
